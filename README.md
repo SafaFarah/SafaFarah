@@ -24,7 +24,6 @@ I'm passionate about building clean, responsive, and user-friendly web applicati
 - Node.js
 - Express.js
 - MongoDB
-- PostgreSQL
 - MERN Stack
 
 ---
